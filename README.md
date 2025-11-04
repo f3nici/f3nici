@@ -1,4 +1,4 @@
-![fenici.](https://capsule-render.vercel.app/api?type=venom&color=_custom_gradient,0:00FFC6,100:0072FF&height=150&text=f3nici&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
+![fenici.](https://capsule-render.vercel.app/api?type=venom&color=_custom_gradient,0:00FFC6,100:0072FF&height=150&text=f3nici&fontSize=90&fontColor=CDCFD1&animation=fadeIn)
 
 </div>
 

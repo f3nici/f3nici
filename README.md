@@ -36,11 +36,11 @@ Static website that translates microphone input into Morse code, then converts i
 
 > "If it's not self-hosted, do you even really own it?"
 
-## `$ curl https://fenici.com.au`
+## `$ curl https://feni.ci
 
 Want to see what I'm building? Check out my digital workshop where I share setups, 3D prints, and the occasional how-to guide.
 
-**→ [fenici.com.au](https://fenici.com.au/)**
+**→ [feni.ci](https://feni.ci)**
 
 ---
 

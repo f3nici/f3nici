@@ -21,13 +21,13 @@ When I'm not containerizing everything in sight, I'm designing 3D prints that ac
 
 ## `$ ls -la ~/projects`
 
-📦 Dockge
+📦 **Dockge**
 Forked dockge that acually does what I want it to do without bugs.
 
-🎤 MicToMorse
+🎤 **MicToMorse**
 Static website that translates microphone input into Morse code, then converts it to text for TTS. Built for accessibility.
 
-🌳 FamilyWebs
+🌳 **FamilyWebs**
 Static website that lets you create full family trees with complex relationship management.
 
 **Things I've 3D Printed**

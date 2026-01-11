@@ -4,7 +4,7 @@
 
 ## `$ whoami`
 
-Sebastian, 21. I run my own digital infrastructure because trusting the cloud is for people who haven't built a homelab yet.
+Felix, 21. I run my own digital infrastructure because trusting the cloud is for people who haven't built a homelab yet.
 
 When I'm not containerizing everything in sight, I'm designing 3D prints that actually solve problems or automating tasks that save me 10 minutes... after spending 10 hours setting them up.
 

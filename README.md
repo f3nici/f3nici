@@ -30,6 +30,9 @@ Static website that translates microphone input into Morse code, then converts i
 🌳 **FamilyWebs**
 Static website that lets you create full family trees with complex relationship management.
 
+🚗 **PlateBlank**
+Self Hosted tool to block out lisence plates on cars.
+
 **Things I've 3D Printed**
 - ⚙️ Functional mechanical parts (not another Benchy)
 - 🔧 Custom mounts and brackets for real problems

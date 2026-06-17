@@ -33,6 +33,9 @@ Static website that lets you create full family trees with complex relationship 
 🚗 **PlateBlank**
 Self Hosted tool to block out lisence plates on cars.
 
+🥰 **CareLane**
+A self-hosted, single-org practice management system for an independent NDIS disability support worker.
+
 **Things I've 3D Printed**
 - ⚙️ Functional mechanical parts (not another Benchy)
 - 🔧 Custom mounts and brackets for real problems
